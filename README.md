@@ -15,6 +15,7 @@ The game includes a scoring system that is based on how much damage the building
 The following keybinds are specifically for the player helicopter:
 
 Keybind | Button | Description
+--- | --- | ---
 '←' | Left | Rotate helicopter left by 15°
 '→' | Right | Rotate helicopter right by 15°
 '↑' | Accel | Increase helicopter's speed
