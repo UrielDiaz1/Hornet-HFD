@@ -10,6 +10,10 @@ The player has partial control on the NPC helicopter, where you can only decide 
 To win the game, the player needs to extinguish every single fire, return to the helipad with enough fuel, and completely stop the engine. Note that new fires may randomly spawn, with an increased probability the more fires are present. Also, fuel is finite and once the player runs out, the game ends.
 The game includes a scoring system that is based on how much damage the buildings underwent. The lower the damage, the higher the score. This means that for a higher score, the player needs to be quick at extinguishing fires, but also be smart on which building to prioritize.
 
+# Gameplay
+
+https://user-images.githubusercontent.com/62918778/150974474-3bb3bb80-8f14-4757-a1dc-965851709c32.mp4
+
 # How to Play
 
 The following keybinds are specifically for the player helicopter:
