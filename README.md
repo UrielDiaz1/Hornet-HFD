@@ -32,14 +32,12 @@ To decide which fire the NPC helicopter must extinguish, you will need to requir
 # Assets
 
 ## Images
-This program Glass Cockpit output display uses seven-segment display. The images used were found on: https://en.wikipedia.org/wiki/Seven-segment_display
+This game's Glass Cockpit output display uses seven-segment display. The images used were found on: https://en.wikipedia.org/wiki/Seven-segment_display
 
 ## Music
 All the amazing songs are created by ZahkarValaha. https://pixabay.com/users/zakharvalaha-22836301/
 
-Song Names:
-Honor & Sword (Main)
-Cinematic Music (Main)
+Song Names are Honor & Sword (Main) and Cinematic Music (Main).
 
 ## Sound Effects
 All sound effects were found at https://www.findsounds.com/ISAPI/search.dll
