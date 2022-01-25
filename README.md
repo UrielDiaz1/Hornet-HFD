@@ -28,3 +28,18 @@ Keybind | Button | Description
 `Q` | Exit | Quits the game
 
 To decide which fire the NPC helicopter must extinguish, you will need to require on touch controls. With your mouse, select the fire you want to extinguish. If successful, the NPC will create a route towards it. This action can be done at any time, even when the NPC is on its path towards the fire, while its filling its water tank, or while its dumping water.
+
+# Assets
+
+## Images
+This program Glass Cockpit output display uses seven-segment display. The images used were found on: https://en.wikipedia.org/wiki/Seven-segment_display
+
+## Music
+All the amazing songs are created by ZahkarValaha. https://pixabay.com/users/zakharvalaha-22836301/
+
+Song Names:
+Honor & Sword (Main)
+Cinematic Music (Main)
+
+## Sound Effects
+All sound effects were found at https://www.findsounds.com/ISAPI/search.dll
