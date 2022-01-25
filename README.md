@@ -16,15 +16,15 @@ The following keybinds are specifically for the player helicopter:
 
 Keybind | Button | Description
 --- | --- | ---
-'←' | Left | Rotate helicopter left by 15°
-'→' | Right | Rotate helicopter right by 15°
-'↑' | Accel | Increase helicopter's speed
-'↓' | Brake | Decrease helicopter's speed
-'f' | Fight | Attempt to fight fire by dumping water
-'d' | Drink | Fill helicopter's water tank
-'s' | Start Engine/Stop Engine | Starts and stops the helicopter engine
-'z' | Zoom Out/Zoom In | Applies the respecting zoom instruction.
-'r' | Restart | Restarts the game
-'Q' | Exit | Quits the game
+`←` | Left | Rotate helicopter left by 15°
+`→` | Right | Rotate helicopter right by 15°
+`↑` | Accel | Increase helicopter's speed
+`↓` | Brake | Decrease helicopter's speed
+`f` | Fight | Attempt to fight fire by dumping water
+`d` | Drink | Fill helicopter's water tank
+`s` | Start Engine/Stop Engine | Starts and stops the helicopter engine
+`z` | Zoom Out/Zoom In | Applies the respecting zoom instruction.
+`r` | Restart | Restarts the game
+`Q` | Exit | Quits the game
 
 To decide which fire the NPC helicopter must extinguish, you will need to require on touch controls. With your mouse, select the fire you want to extinguish. If successful, the NPC will create a route towards it. This action can be done at any time, even when the NPC is on its path towards the fire, while its filling its water tank, or while its dumping water.
